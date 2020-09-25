@@ -1,5 +1,6 @@
 # Experiment data file
 *.data
+*.png
 
 # Prerequisites
 *.d
